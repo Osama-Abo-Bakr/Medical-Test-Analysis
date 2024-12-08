@@ -1,0 +1,5 @@
+pypdf2==3.0.1
+streamlit==1.24.0
+python-dotenv==1.0.1
+langchain-core==0.3.22
+langchain-groq

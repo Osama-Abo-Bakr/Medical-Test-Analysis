@@ -1,4 +1,3 @@
-import os
 import PyPDF2
 import streamlit as st
 from dotenv import load_dotenv
